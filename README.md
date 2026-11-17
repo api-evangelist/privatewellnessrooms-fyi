@@ -64,5 +64,130 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-PrivateWellnessRooms is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://privatewellnessrooms.fyi
+PrivateWellnessRooms is a directory of private home wellness rooms, offering custom saunas, steam rooms, cold plunge and recovery suites. It aggregates listings of builders, installers and sellers across regions, providing detailed information, guides, and tools to help homeowners design and equip personal wellness spaces. The platform includes product catalogs, educational resources, and calculators to assist in planning and budgeting wellness room projects.
+
+**Areas:** Company · Wellness · Sauna · SteamRoom · ColdPlunge
+
+## PrivateWellnessRooms on APIs.io
+
+Everything profiled for PrivateWellnessRooms is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/privatewellnessrooms-fyi/](https://apis.io/providers/privatewellnessrooms-fyi/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [PrivateWellnessRooms Academy API](https://apis.io/apis/privatewellnessrooms-fyi/privatewellnessrooms-fyi-academy-api/) — The Academy API from PrivateWellnessRooms — 2 operation(s) for academy.
+- [PrivateWellnessRooms Admin API](https://apis.io/apis/privatewellnessrooms-fyi/privatewellnessrooms-fyi-admin-api/) — The Admin API from PrivateWellnessRooms — 166 operation(s) for admin.
+- [PrivateWellnessRooms Categories API](https://apis.io/apis/privatewellnessrooms-fyi/privatewellnessrooms-fyi-categories-api/) — The Categories API from PrivateWellnessRooms — 1 operation(s) for categories.
+- [PrivateWellnessRooms Certificates API](https://apis.io/apis/privatewellnessrooms-fyi/privatewellnessrooms-fyi-certificates-api/) — The Certificates API from PrivateWellnessRooms — 1 operation(s) for certificates.
+- [PrivateWellnessRooms Listings API](https://apis.io/apis/privatewellnessrooms-fyi/privatewellnessrooms-fyi-listings-api/) — The Listings API from PrivateWellnessRooms — 2 operation(s) for listings.
+- [PrivateWellnessRooms Places API](https://apis.io/apis/privatewellnessrooms-fyi/privatewellnessrooms-fyi-places-api/) — The Places API from PrivateWellnessRooms — 1 operation(s) for places.
+- [PrivateWellnessRooms Product Categories API](https://apis.io/apis/privatewellnessrooms-fyi/privatewellnessrooms-fyi-product-categories-api/) — The Product Categories API from PrivateWellnessRooms — 1 operation(s) for product categories.
+- [PrivateWellnessRooms Products API](https://apis.io/apis/privatewellnessrooms-fyi/privatewellnessrooms-fyi-products-api/) — The Products API from PrivateWellnessRooms — 2 operation(s) for products.
+- [PrivateWellnessRooms Sources API](https://apis.io/apis/privatewellnessrooms-fyi/privatewellnessrooms-fyi-sources-api/) — The Sources API from PrivateWellnessRooms — 1 operation(s) for sources.
+- [PrivateWellnessRooms Sponsor API](https://apis.io/apis/privatewellnessrooms-fyi/privatewellnessrooms-fyi-sponsor-api/) — The Sponsor API from PrivateWellnessRooms — 2 operation(s) for sponsor.
+- [PrivateWellnessRooms Stats API](https://apis.io/apis/privatewellnessrooms-fyi/privatewellnessrooms-fyi-stats-api/) — The Stats API from PrivateWellnessRooms — 1 operation(s) for stats.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [PrivateWellnessRooms Agentic Access](https://apis.io/agentic-access/privatewellnessrooms-fyi/privatewellnessrooms-fyi-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Certificate](https://apis.io/schemas/privatewellnessrooms-fyi/privatewellnessrooms-fyi-certificate/)
+- [Course](https://apis.io/schemas/privatewellnessrooms-fyi/privatewellnessrooms-fyi-course/)
+- [CourseDetail](https://apis.io/schemas/privatewellnessrooms-fyi/privatewellnessrooms-fyi-course-detail/)
+- [Listing](https://apis.io/schemas/privatewellnessrooms-fyi/privatewellnessrooms-fyi-listing/)
+- [ListingItem](https://apis.io/schemas/privatewellnessrooms-fyi/privatewellnessrooms-fyi-listing-item/)
+- [Product](https://apis.io/schemas/privatewellnessrooms-fyi/privatewellnessrooms-fyi-product/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Privatewellnessrooms Fyi Context](https://apis.io/jsonld/privatewellnessrooms-fyi/privatewellnessrooms-fyi-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [PrivateWellnessRooms API Rules](https://apis.io/rules/privatewellnessrooms-fyi/privatewellnessrooms-fyi-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [PrivateWellnessRooms Domain Security](https://apis.io/security/privatewellnessrooms-fyi/privatewellnessrooms-fyi-domain-security/)
+- [PrivateWellnessRooms Vulnerability Disclosure](https://apis.io/security/privatewellnessrooms-fyi/privatewellnessrooms-fyi-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://privatewellnessrooms.fyi)
+- [Documentation](https://privatewellnessrooms.fyi/developers)
+- [Support](https://privatewellnessrooms.fyi/support)
+- [Terms of service](https://privatewellnessrooms.fyi/terms)
+- [Privacy policy](https://privatewellnessrooms.fyi/privacy)
+
+## API Evangelist rating
+
+**Kin Score 40.5** — developing · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.6 |
+| Contract quality | 51.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 20.7 |
+| Access clarity | 17.0 |
+
+**Agent readiness 44.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/privatewellnessrooms-fyi/](https://apis.io/providers/privatewellnessrooms-fyi/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for PrivateWellnessRooms: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/privatewellnessrooms-fyi/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
